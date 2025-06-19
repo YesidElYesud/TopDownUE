@@ -33,7 +33,6 @@
 				"D:/Unity projects/TopDownUE/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/43/KCOU8O5LTCF16FPA9RNLK8.uasset",
 				"D:/Unity projects/TopDownUE/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/72/PR1QS01SW5BWFPFZ9C79RF.uasset",
 				"D:/Unity projects/TopDownUE/Content/TopDown/Blueprints/Pollito.uasset",
-				"D:/Unity projects/TopDownUE/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/18/JFQL9EV85SNOR2B1B0US9C.uasset",
 				"D:/Unity projects/TopDownUE/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/J3/KFRM1EMZGPYHYQUV56QE1E.uasset",
 				"D:/Unity projects/TopDownUE/Content/TopDown/Blueprints/UI/BP_Canvas.uasset",
 				"D:/Unity projects/TopDownUE/Content/TopDown/Blueprints/UI/BP_HUD.uasset",
@@ -54,6 +53,18 @@
 				"D:/Unity projects/TopDownUE/Content/TopDown/micro_rooster_rudy_proto_series/textures/rudy_rooster_metal.uasset",
 				"D:/Unity projects/TopDownUE/Content/TopDown/micro_rooster_rudy_proto_series/textures/rudy_rooster_rough.uasset",
 				"D:/Unity projects/TopDownUE/Content/TopDown/micro_rooster_rudy_proto_series/source/rudy_SC_mat.uasset",
+				"D:/Unity projects/TopDownUE/Content/TopDown/Minimapa/NewTextureRenderTarget2D.uasset",
+				"D:/Unity projects/TopDownUE/Content/TopDown/Minimapa/MaterialMinimapa.uasset",
+				"D:/Unity projects/TopDownUE/Content/TopDown/Blueprints/UI/flecha.uasset",
+				"D:/Unity projects/TopDownUE/Content/TopDown/Minimapa/flecha.uasset",
+				"D:/Unity projects/TopDownUE/Content/TopDown/Minimapa/materialFlecha.uasset",
+				"D:/Unity projects/TopDownUE/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/BJ/4PXTGFJASGHB6YGKJGCA5Z.uasset",
+				"D:/Unity projects/TopDownUE/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/HO/QR5D391O1LDK3W7AVCMZ22.uasset",
+				"D:/Unity projects/TopDownUE/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/EB/MO7J7JNIUOMLHBOZ2KXQ5X.uasset",
+				"D:/Unity projects/TopDownUE/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/3B/2OD8YWQ2U4I9O10MEDRW8B.uasset",
+				"D:/Unity projects/TopDownUE/Content/TopDown/Minimapa/materialFlecha1.uasset",
+				"D:/Unity projects/TopDownUE/Content/TopDown/Minimapa/Material_pollito.uasset",
+				"D:/Unity projects/TopDownUE/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/18/JFQL9EV85SNOR2B1B0US9C.uasset",
 				"D:/Unreal projects/TopDownUE/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
